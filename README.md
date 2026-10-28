@@ -55,18 +55,8 @@ No additional packages or build steps are required.
 
 ## Live Site
 
-Coming soon.
+https://nilesleesmith.github.io/simply-find-matching-cat-and-dog-breeds/
 
 ## Screenshots
 
-### Desktop
-
 ![Cat and Dog Breed Matcher desktop view](./screenshots/simply-find-matching-cat-and-dog-breeds-desktop.png)
-
-### Tablet
-
-![Cat and Dog Breed Matcher tablet view](./screenshots/simply-find-matching-cat-and-dog-breeds-tablet.png)
-
-### Mobile
-
-![Cat and Dog Breed Matcher mobile view](./screenshots/simply-find-matching-cat-and-dog-breeds-mobile.png)
